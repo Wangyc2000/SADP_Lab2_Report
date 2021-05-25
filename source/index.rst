@@ -1,7 +1,5 @@
 Lab 2: The ORM Magic
 ====================================
-
-
 Introduction
 ----------------------
 |   In this lab, we are going to learn the object-relational mapper (ORM) provided by SQLAlchemy.
@@ -275,14 +273,11 @@ For this part we make **screenshots** to illustrate the results.
      .. image:: ./imgs/db_users.png   
         :width: 600px     
 
-
-
 Discussions
 ----------------------
 * For this lab we learnt about the way to manipulate database with SQLAlchemy’s ORM (object-relational mapper) instead of raw SQL statement in web application, which will bring convenience while making the architecture more clear.
 * We tried to understand dependency inversion.
 * Also, we learnt to use Read the Docs combining with Sphinx to manage our lab report.
-
 
 References
 ----------------------
