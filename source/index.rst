@@ -256,7 +256,7 @@ For this part we make **screenshots** to illustrate the results.
 
    * list of tables:
 
-     .. image:: /imgs/db_tables.png     
+     .. image:: imgs/db_tables.png     
         :width: 200px   
    * articles:
 
